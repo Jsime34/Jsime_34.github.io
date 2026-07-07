@@ -35,7 +35,7 @@
     "href": "resume.html",
     "title": "Jaime José Gutierrez Zevallos",
     "section": "",
-    "text": "Bachelor of Science in Computer Science candidate — Frontend & Cloud Developer.\n\njaimegut3005@gmail.com | 208-760-3938 | LinkedIn | GitHub\n\n\n\nExpected July Brigham Young University - Idaho, Rexburg, Idaho\n\nBachelor of Science in Computer Science\nGPA: 3.88\n\n\n\n\nJanuary 2024 - Present Technology Expert, Agronegocios e Inversiones Gutierrez, Arequipa, Peru\n\nSet up and maintained email systems, cloud storage, and remote access for staff.\nGained experience in customer service, problem-solving, and real-world tech support.\nDiagnosed and resolved hardware, software, and network issues across multiple devices.\n\nAugust 2025 - September 2025 English Tutor (Volunteer), The Church of Jesus Christ of Latter-Day Saints, Remote\n\nTeach conversational and basic English to a small group of members in my home ward.\nPlan weekly lessons and tailor content to students’ learning levels and goals.\nDevelop communication and leadership skills by mentoring and encouraging students in their progress.\nFoster a supportive learning environment that builds confidence and unity.\n\nSeptember 2024 - December 2024 Team Member, BYU-Idaho Food Services, Rexburg, Idaho\n\nProvided fast, friendly customer service in a high-paced mobile kitchen environment.\nAssisted with food prep, cooking, and maintaining health & safety standards.\nManaged inventory restocking and collaborated closely with team members, developing teamwork skills.\n\n\n\n\n\nBuilt the frontend web page for Agronegocios e Inversiones Gutierrez using React, Tailwind CSS, and JavaScript, delivering a responsive, modern interface to showcase the company’s products and services.\nHelped develop, test, and deploy the operational system for Agronegocios e Inversiones Gutierrez on the AWS cloud, ensuring reliable performance and scalable infrastructure for daily business operations.\nArgus: Contributing to frontend development at Elixir, building responsive, accessible user interfaces and collaborating with the team to deliver an intuitive user experience with clean, maintainable code.\n\n\n\n\n\nPython\nSQL\nCSS\nHTML\nC++\n\n\n\n\n\nEager to learn\nTeamwork\nLeadership\nProblem-solving"
+    "text": "Bachelor of Science in Computer Science candidate — Frontend & Cloud Developer."
   },
   {
     "objectID": "resume.html#currently",
@@ -48,8 +48,8 @@
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Jaime José Gutierrez Zevallos",
-    "section": "",
-    "text": "Expected July Brigham Young University - Idaho, Rexburg, Idaho\n\nBachelor of Science in Computer Science\nGPA: 3.88"
+    "section": "Education",
+    "text": "Education\nExpected July Brigham Young University - Idaho, Rexburg, Idaho\n\nBachelor of Science in Computer Science\nGPA: 3.88"
   },
   {
     "objectID": "resume.html#awards",
@@ -368,28 +368,28 @@
     "objectID": "resume.html#experience",
     "href": "resume.html#experience",
     "title": "Jaime José Gutierrez Zevallos",
-    "section": "",
-    "text": "January 2024 - Present Technology Expert, Agronegocios e Inversiones Gutierrez, Arequipa, Peru\n\nSet up and maintained email systems, cloud storage, and remote access for staff.\nGained experience in customer service, problem-solving, and real-world tech support.\nDiagnosed and resolved hardware, software, and network issues across multiple devices.\n\nAugust 2025 - September 2025 English Tutor (Volunteer), The Church of Jesus Christ of Latter-Day Saints, Remote\n\nTeach conversational and basic English to a small group of members in my home ward.\nPlan weekly lessons and tailor content to students’ learning levels and goals.\nDevelop communication and leadership skills by mentoring and encouraging students in their progress.\nFoster a supportive learning environment that builds confidence and unity.\n\nSeptember 2024 - December 2024 Team Member, BYU-Idaho Food Services, Rexburg, Idaho\n\nProvided fast, friendly customer service in a high-paced mobile kitchen environment.\nAssisted with food prep, cooking, and maintaining health & safety standards.\nManaged inventory restocking and collaborated closely with team members, developing teamwork skills."
+    "section": "Experience",
+    "text": "Experience\nJanuary 2024 - Present Technology Expert, Agronegocios e Inversiones Gutierrez, Arequipa, Peru\n\nSet up and maintained email systems, cloud storage, and remote access for staff.\nGained experience in customer service, problem-solving, and real-world tech support.\nDiagnosed and resolved hardware, software, and network issues across multiple devices.\n\nAugust 2025 - September 2025 English Tutor (Volunteer), The Church of Jesus Christ of Latter-Day Saints, Remote\n\nTeach conversational and basic English to a small group of members in my home ward.\nPlan weekly lessons and tailor content to students’ learning levels and goals.\nDevelop communication and leadership skills by mentoring and encouraging students in their progress.\nFoster a supportive learning environment that builds confidence and unity.\n\nSeptember 2024 - December 2024 Team Member, BYU-Idaho Food Services, Rexburg, Idaho\n\nProvided fast, friendly customer service in a high-paced mobile kitchen environment.\nAssisted with food prep, cooking, and maintaining health & safety standards.\nManaged inventory restocking and collaborated closely with team members, developing teamwork skills."
   },
   {
     "objectID": "resume.html#projects",
     "href": "resume.html#projects",
     "title": "Jaime José Gutierrez Zevallos",
-    "section": "",
-    "text": "Built the frontend web page for Agronegocios e Inversiones Gutierrez using React, Tailwind CSS, and JavaScript, delivering a responsive, modern interface to showcase the company’s products and services.\nHelped develop, test, and deploy the operational system for Agronegocios e Inversiones Gutierrez on the AWS cloud, ensuring reliable performance and scalable infrastructure for daily business operations.\nArgus: Contributing to frontend development at Elixir, building responsive, accessible user interfaces and collaborating with the team to deliver an intuitive user experience with clean, maintainable code."
+    "section": "Projects",
+    "text": "Projects\n\nBuilt the frontend web page for Agronegocios e Inversiones Gutierrez using React, Tailwind CSS, and JavaScript, delivering a responsive, modern interface to showcase the company’s products and services.\nHelped develop, test, and deploy the operational system for Agronegocios e Inversiones Gutierrez on the AWS cloud, ensuring reliable performance and scalable infrastructure for daily business operations.\nArgus: Contributing to frontend development at Elixir, building responsive, accessible user interfaces and collaborating with the team to deliver an intuitive user experience with clean, maintainable code."
   },
   {
     "objectID": "resume.html#hard-skills",
     "href": "resume.html#hard-skills",
     "title": "Jaime José Gutierrez Zevallos",
-    "section": "",
-    "text": "Python\nSQL\nCSS\nHTML\nC++"
+    "section": "Hard Skills",
+    "text": "Hard Skills\n\nPython\nSQL\nCSS\nHTML\nC++"
   },
   {
     "objectID": "resume.html#soft-skills",
     "href": "resume.html#soft-skills",
     "title": "Jaime José Gutierrez Zevallos",
-    "section": "",
-    "text": "Eager to learn\nTeamwork\nLeadership\nProblem-solving"
+    "section": "Soft Skills",
+    "text": "Soft Skills\n\nEager to learn\nTeamwork\nLeadership\nProblem-solving"
   }
 ]

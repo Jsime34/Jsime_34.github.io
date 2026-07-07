@@ -2,7 +2,6 @@
 layout: cv
 title: Jaime José Gutierrez Zevallos
 ---
-# Jaime José Gutierrez Zevallos
 Bachelor of Science in Computer Science candidate — Frontend & Cloud Developer.
 
 
