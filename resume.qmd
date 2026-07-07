@@ -1,89 +1,95 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jaime José Gutierrez Zevallos
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jaime José Gutierrez Zevallos
+Bachelor of Science in Computer Science candidate — Frontend & Cloud Developer.
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:jaimegut3005@gmail.com">jaimegut3005@gmail.com</a>
+| <a href="tel:2087603938">208-760-3938</a>
+| <a href="https://linkedin.com/in/jaime-gutierrez-z/">LinkedIn</a>
+| <a href="https://github.com/Jsime34/">GitHub</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Expected July`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Science in Computer Science
+- GPA: 3.88
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`January 2024 - Present`
+__Technology Expert__, Agronegocios e Inversiones Gutierrez, Arequipa, Peru
 
 
-## Occupation
+- Set up and maintained email systems, cloud storage, and remote access for staff.
+- Gained experience in customer service, problem-solving, and real-world tech support.
+- Diagnosed and resolved hardware, software, and network issues across multiple devices.
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+`August 2025 - September 2025`
+__English Tutor (Volunteer)__, The Church of Jesus Christ of Latter-Day Saints, Remote
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+- Teach conversational and basic English to a small group of members in my home ward.
+- Plan weekly lessons and tailor content to students' learning levels and goals.
+- Develop communication and leadership skills by mentoring and encouraging students in their progress.
+- Foster a supportive learning environment that builds confidence and unity.
+
+
+`September 2024 - December 2024`
+__Team Member__, BYU-Idaho Food Services, Rexburg, Idaho
+
+
+- Provided fast, friendly customer service in a high-paced mobile kitchen environment.
+- Assisted with food prep, cooking, and maintaining health & safety standards.
+- Managed inventory restocking and collaborated closely with team members, developing teamwork skills.
+
+
+
+## Projects
+
+
+- Built the frontend web page for Agronegocios e Inversiones Gutierrez using React, Tailwind CSS, and JavaScript, delivering a responsive, modern interface to showcase the company's products and services.
+- Helped develop, test, and deploy the operational system for Agronegocios e Inversiones Gutierrez on the AWS cloud, ensuring reliable performance and scalable infrastructure for daily business operations.
+- Argus: Contributing to frontend development at Elixir, building responsive, accessible user interfaces and collaborating with the team to deliver an intuitive user experience with clean, maintainable code.
+
+
+
+## Hard Skills
+
+
+- Python
+- SQL
+- CSS
+- HTML
+- C++
+
+
+
+## Soft Skills
+
+
+- Eager to learn
+- Teamwork
+- Leadership
+- Problem-solving
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+
+Last updated: July 2026 -->
